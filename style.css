@@ -1,0 +1,15 @@
+button {
+  background-color: #364766; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+body {
+  background-color: rgb(212, 212, 212);
+  font-family: "Tahoma";
+}
